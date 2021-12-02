@@ -1,0 +1,15 @@
+/home/antoniobarros/desenvolvimento/bin/Debug/net6.0/desenvolvimento
+/home/antoniobarros/desenvolvimento/bin/Debug/net6.0/desenvolvimento.deps.json
+/home/antoniobarros/desenvolvimento/bin/Debug/net6.0/desenvolvimento.runtimeconfig.json
+/home/antoniobarros/desenvolvimento/bin/Debug/net6.0/desenvolvimento.dll
+/home/antoniobarros/desenvolvimento/bin/Debug/net6.0/ref/desenvolvimento.dll
+/home/antoniobarros/desenvolvimento/bin/Debug/net6.0/desenvolvimento.pdb
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.csproj.AssemblyReference.cache
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.GeneratedMSBuildEditorConfig.editorconfig
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.AssemblyInfoInputs.cache
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.AssemblyInfo.cs
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.csproj.CoreCompileInputs.cache
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.dll
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/ref/desenvolvimento.dll
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.pdb
+/home/antoniobarros/desenvolvimento/obj/Debug/net6.0/desenvolvimento.genruntimeconfig.cache
