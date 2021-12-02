@@ -38,7 +38,7 @@ namespace desenvolvimento
         }
 
         public String InfoProfessor(){
-            return $"Id: {this.id}\n Nome do professor: {this.nome} {this.sobrenome}\n Salário: {this.salario}";
+            return $"Id: {this.id}\n Nome do professor: {this.nome} {this.sobrenome}\n Salário: {this.salario*1.5}";
         }
     }
 
