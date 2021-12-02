@@ -34,11 +34,11 @@ namespace desenvolvimento
         private Decimal salario;
 
         public Professor(int id, String nome, string sobrenome, decimal salario): base(id, nome, sobrenome){
-            this.salario = salario;
+            this.salario = salario * 10;
         }
 
         public String InfoProfessor(){
-            return $"Id: {this.id}\n Nome do professor: {this.nome} {this.sobrenome}\n Salário: {this.salario*1.5}";
+            return $"Id: {this.id}\n Nome do professor: {this.nome} {this.sobrenome}\n Salário: {this.salario}";
         }
     }
 
