@@ -50,6 +50,19 @@ namespace desenvolvimento
             Console.WriteLine(aluno1.InfoAluno());
             Console.WriteLine(professor1.InfoProfessor());
             Console.ReadKey();
+
+            //Teste uso LINQ
+            string[] palavras = {"olá", "programação", "LINQ", "Cachorro", "Mundo"};
+            
+            //Seleciona apenas pequenas palavras
+            var pequenasPalavras = from word in palavras where word.Length <= 5 select word;
+
+            //Imprime as palavras
+            foreach (var palavra in pequenasPalavras){
+                Console.WriteLine(palavra); 
+            }
+            
+            Console.ReadLine();
         }
     }
 
