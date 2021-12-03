@@ -34,7 +34,7 @@ namespace desenvolvimento
         private Decimal salario;
 
         public Professor(int id, String nome, string sobrenome, decimal salario): base(id, nome, sobrenome){
-            this.salario = salario * 10;
+            this.salario = salario;
         }
 
         public String InfoProfessor(){
